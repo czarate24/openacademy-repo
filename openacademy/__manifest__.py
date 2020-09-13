@@ -29,6 +29,7 @@
         'views/views.xml',
         'views/templates.xml',
         'views/partner.xml',
+        'views/session_board.xml',
         'reports.xml',
        
     ],
