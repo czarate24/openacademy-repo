@@ -56,5 +56,5 @@
             action="open_board_session"
             sequence="1"
             id="menu_board_session" icon="terp-graph"/>
-
+            
 </odoo>
